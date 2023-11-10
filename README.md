@@ -1,2 +1,4 @@
-The actual repository is shared only among the dev team and is private, but here's the link to the website if you want to check it out!!
+So we (Roclab) redesigned the University of Rochester's Course Description/Course Scheduler page (https://cdcs.ur.rochester.edu/) to become more user friendly. I mean, just look at the website..it looks like it hasn't been updated since the early 2000s!
+
+The actual repository containing all our code is private and is only shared among the dev team. However, you can still check out our website here!!
 https://melcourses.com/
